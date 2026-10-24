@@ -698,10 +698,6 @@
       "type": "cards"
     },
     {
-      "id": "bb1buu",
-      "type": "testimonials",
-      "hidden": false,
-      "nav": "",
       "cols": "1",
       "eyebrow": "Reviews",
       "title": "Track record",
@@ -733,7 +729,11 @@
       "bgiSpd": 16,
       "bgiPos": "center",
       "bgiInt": 3,
-      "bgiSize": "cover"
+      "bgiSize": "cover",
+      "id": "bb1buu",
+      "hidden": false,
+      "nav": "",
+      "type": "testimonials"
     },
     {
       "form": "on",
@@ -741,7 +741,7 @@
       "eyebrow": "Contact",
       "title": "Let's work *together*.",
       "text": "Send me a project request or message me directly (preferred).",
-      "email": "realsnowman00@gmail.com",
+      "email": "contact@snwm.me",
       "options": [
         "Management",
         "Moderation",
@@ -752,9 +752,14 @@
       ],
       "rows": [
         {
-          "label": "Reach me through Discord",
+          "label": "Discord",
           "value": "@ctmo",
           "url": "https://discord.com/users/1163055480046878720\n"
+        },
+        {
+          "label": "Email",
+          "value": "contact@snwm.me\n",
+          "url": ""
         }
       ],
       "fl": {

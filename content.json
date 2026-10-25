@@ -78,7 +78,7 @@
     "color": "#000000"
   },
   "integ": {
-    "webhook": "https://discord.com/api/webhooks/1563932285416247448/h-45B6YXYTx9niDN4qfG4EEQojqkc5F4h5fPaQQsc_fw1gGYF9JnDYhZ9rplIHAJ6Ymg",
+    "webhook": "",
     "formUrl": "",
     "plausible": "",
     "webhookMsg": {

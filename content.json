@@ -419,7 +419,7 @@
     },
     {
       "layout": "grid",
-      "cols": "1",
+      "cols": "3",
       "eyebrow": "WHAT I'M WORKING ON",
       "title": "*Current* positions",
       "text": "",
@@ -515,10 +515,10 @@
           "image": ""
         }
       ],
-      "align": "center",
+      "align": "left",
       "size": "l",
       "pad": "m",
-      "width": "full",
+      "width": "normal",
       "bgs": "none",
       "bgc": "",
       "div": "on",

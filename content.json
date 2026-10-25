@@ -667,13 +667,13 @@
       "items": [
         {
           "title": "Community Management",
-          "price": "Depending on the community's size.",
+          "price": "Per month, depending on the community's size.",
           "priceNote": "",
           "text": "Engagement, announcements, player support, and community operations."
         },
         {
           "title": "Staff Leadership",
-          "price": "Depending on the community's size.",
+          "price": "Per month, depending on the community's size.",
           "priceNote": "",
           "text": "Structuring and coordinating staff teams with clear roles, responsibilities, and workflows to keep internal operations running smoothly."
         },
@@ -685,13 +685,13 @@
         },
         {
           "title": "Moderation & Policy",
-          "price": "Depending on the community's size.",
+          "price": "Per month, depending on the community's size.",
           "priceNote": "",
           "text": "Report handling, rule enforcement, escalation and fair decisions."
         },
         {
           "title": "QA & Bug Reporting",
-          "price": "Depending on the game's size.",
+          "price": "Per month, depending on the game's size.",
           "priceNote": "",
           "text": "Playtesting, reproducing issues, test cases and clear reports."
         },

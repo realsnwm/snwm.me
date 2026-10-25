@@ -24,7 +24,7 @@
     "bgImg": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/b/5/d/b5df22212253eda5f0cebe857cc84dd9a874a478.jpeg",
     "dim": 90,
     "bgAnim": "drift",
-    "bgAnimSpd": 23,
+    "bgAnimSpd": 15,
     "bgAnimDir": "alternate",
     "bgPos": "center",
     "bgInt": 5,

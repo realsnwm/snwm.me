@@ -1,5 +1,5 @@
 {
-  "accent": "#0bbc81",
+  "accent": "#71cffe",
   "theme": "dark",
   "design": {
     "font": "system",
@@ -20,14 +20,14 @@
     "gap": 14,
     "glow": 100,
     "bg": "",
-    "fg": "",
-    "bgImg": "",
-    "dim": 0,
-    "bgAnim": "none",
-    "bgAnimSpd": 30,
+    "fg": "#f7f7f7",
+    "bgImg": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/b/5/d/b5df22212253eda5f0cebe857cc84dd9a874a478.jpeg",
+    "dim": 90,
+    "bgAnim": "drift",
+    "bgAnimSpd": 23,
     "bgAnimDir": "alternate",
     "bgPos": "center",
-    "bgInt": 3,
+    "bgInt": 5,
     "bgSize": "cover",
     "anim": true,
     "reveal": "rise",
@@ -78,7 +78,7 @@
     "color": "#000000"
   },
   "integ": {
-    "webhook": "",
+    "webhook": "https://discord.com/api/webhooks/1563932285416247448/h-45B6YXYTx9niDN4qfG4EEQojqkc5F4h5fPaQQsc_fw1gGYF9JnDYhZ9rplIHAJ6Ymg",
     "formUrl": "",
     "plausible": "",
     "webhookMsg": {

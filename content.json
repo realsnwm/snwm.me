@@ -389,7 +389,7 @@
       "label": "BIGGEST PROJECTS",
       "title": "Anime Crossovers",
       "sub": "Community Manager",
-      "text": "Led all aspects of the Discord server, overseeing staff leadership, moderation, support, quality assurance, events, server operations, and community management. Held overall responsibility for staff decisions, server organisation, rule enforcement, and day-to-day operations.",
+      "text": "Leading all aspects of the Discord server, overseeing staff leadership, moderation, support, quality assurance, events, server operations, and community management. Held overall responsibility for staff decisions, server organisation, rule enforcement, and day-to-day operations.",
       "stat": "\n",
       "statLabel": "\n",
       "link": "",
@@ -419,7 +419,7 @@
     },
     {
       "layout": "grid",
-      "cols": "3",
+      "cols": "1",
       "eyebrow": "WHAT I'M WORKING ON",
       "title": "*Current* positions",
       "text": "",
@@ -427,7 +427,7 @@
         {
           "eyebrow": "COMMUNITY MANAGER",
           "title": "Anime Crossovers",
-          "text": "\n",
+          "text": "",
           "badge": "Active",
           "stat": "",
           "statLabel": "",
@@ -515,10 +515,10 @@
           "image": ""
         }
       ],
-      "align": "left",
+      "align": "center",
       "size": "l",
       "pad": "m",
-      "width": "normal",
+      "width": "full",
       "bgs": "none",
       "bgc": "",
       "div": "on",
@@ -529,10 +529,10 @@
       "hide": "never",
       "bgi": "",
       "bgiAnim": "none",
-      "bgiDim": 40,
+      "bgiDim": 20,
       "bgiSpd": 16,
-      "bgiPos": "center",
-      "bgiInt": 3,
+      "bgiPos": "top",
+      "bgiInt": 2,
       "bgiSize": "cover",
       "id": "current",
       "hidden": false,
@@ -606,37 +606,33 @@
       "type": "list"
     },
     {
-      "id": "bkfc7g",
-      "type": "badges",
-      "hidden": false,
-      "nav": "",
       "eyebrow": "WHAT I CAN DO",
       "title": "Skills",
       "text": "\n",
       "items": [
         {
           "label": "Community Management",
-          "icon": "✦"
+          "icon": "★"
         },
         {
           "label": "Staff Leadership",
-          "icon": "✦"
+          "icon": "★"
         },
         {
           "label": "Server Operations",
-          "icon": "✦"
+          "icon": "★"
         },
         {
           "label": "Moderation & Policy",
-          "icon": "✦"
+          "icon": "★"
         },
         {
           "label": "QA & Bug Reporting",
-          "icon": "✦"
+          "icon": "★"
         },
         {
           "label": "Documentation",
-          "icon": "✦"
+          "icon": "★"
         }
       ],
       "align": "left",
@@ -657,13 +653,13 @@
       "bgiSpd": 16,
       "bgiPos": "center",
       "bgiInt": 3,
-      "bgiSize": "cover"
-    },
-    {
-      "id": "beqz2h",
-      "type": "rates",
+      "bgiSize": "cover",
+      "id": "bkfc7g",
       "hidden": false,
       "nav": "",
+      "type": "badges"
+    },
+    {
       "div": "off",
       "eyebrow": "Services",
       "title": "Rates",
@@ -723,7 +719,11 @@
       "bgiSpd": 16,
       "bgiPos": "center",
       "bgiInt": 3,
-      "bgiSize": "cover"
+      "bgiSize": "cover",
+      "id": "beqz2h",
+      "hidden": false,
+      "nav": "",
+      "type": "rates"
     },
     {
       "cols": "1",

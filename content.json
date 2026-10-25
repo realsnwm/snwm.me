@@ -606,80 +606,46 @@
       "type": "list"
     },
     {
-      "layout": "grid",
-      "cols": "1",
+      "id": "bkfc7g",
+      "type": "badges",
+      "hidden": false,
+      "nav": "",
       "eyebrow": "WHAT I CAN DO",
       "title": "Skills",
-      "text": "",
+      "text": "\n",
       "items": [
         {
-          "eyebrow": "\n",
-          "title": "Community Management",
-          "text": "Engagement, announcements, player support, and community operations.",
-          "badge": "",
-          "stat": "",
-          "statLabel": "",
-          "link": "",
-          "image": ""
+          "label": "Community Management",
+          "icon": "✦"
         },
         {
-          "eyebrow": "\n",
-          "title": "Staff Leadership",
-          "text": "Structuring and coordinating staff teams with clear roles, responsibilities, and workflows to keep internal operations running smoothly.",
-          "badge": "",
-          "stat": "",
-          "statLabel": "",
-          "link": "",
-          "image": ""
+          "label": "Staff Leadership",
+          "icon": "✦"
         },
         {
-          "eyebrow": "\n",
-          "title": "Server Operations",
-          "text": "Community setup, Discord structure, roles, permissions, bots and automation.",
-          "badge": "",
-          "stat": "",
-          "statLabel": "",
-          "link": "",
-          "image": ""
+          "label": "Server Operations",
+          "icon": "✦"
         },
         {
-          "eyebrow": "\n",
-          "title": "Moderation & Policy",
-          "text": "Report handling, rule enforcement, escalation and fair decisions.",
-          "badge": "",
-          "stat": "",
-          "statLabel": "",
-          "link": "",
-          "image": ""
+          "label": "Moderation & Policy",
+          "icon": "✦"
         },
         {
-          "eyebrow": "\n",
-          "title": "QA & Bug Reporting",
-          "text": "Playtesting, reproducing issues, test cases and clear reports.",
-          "badge": "",
-          "stat": "",
-          "statLabel": "",
-          "link": "",
-          "image": ""
+          "label": "QA & Bug Reporting",
+          "icon": "✦"
         },
         {
-          "eyebrow": "\n",
-          "title": "Documentation",
-          "text": "Writing clear rules, FAQs, staff guides, testing records and process documentation.",
-          "badge": "",
-          "stat": "",
-          "statLabel": "",
-          "link": "",
-          "image": ""
+          "label": "Documentation",
+          "icon": "✦"
         }
       ],
-      "align": "center",
-      "size": "xl",
-      "pad": "s",
+      "align": "left",
+      "size": "m",
+      "pad": "m",
       "width": "normal",
-      "bgs": "panel",
+      "bgs": "none",
       "bgc": "",
-      "div": "on",
+      "div": "off",
       "anim": "default",
       "delay": 0,
       "tc": "",
@@ -691,11 +657,73 @@
       "bgiSpd": 16,
       "bgiPos": "center",
       "bgiInt": 3,
-      "bgiSize": "cover",
-      "id": "skills",
+      "bgiSize": "cover"
+    },
+    {
+      "id": "beqz2h",
+      "type": "rates",
       "hidden": false,
-      "nav": "Skills",
-      "type": "cards"
+      "nav": "",
+      "div": "off",
+      "eyebrow": "Services",
+      "title": "Rates",
+      "text": "",
+      "items": [
+        {
+          "title": "Community Management",
+          "price": "Depending on the community's size.",
+          "priceNote": "",
+          "text": "Engagement, announcements, player support, and community operations."
+        },
+        {
+          "title": "Staff Leadership",
+          "price": "Depending on the community's size.",
+          "priceNote": "",
+          "text": "Structuring and coordinating staff teams with clear roles, responsibilities, and workflows to keep internal operations running smoothly."
+        },
+        {
+          "title": "Server Operations",
+          "price": "1,500-3,000 Robux\n==(Tax Covered)==\n",
+          "priceNote": "",
+          "text": "Community setup, Discord structure, roles, permissions, bots and automation."
+        },
+        {
+          "title": "Moderation & Policy",
+          "price": "Depending on the community's size.",
+          "priceNote": "",
+          "text": "Report handling, rule enforcement, escalation and fair decisions."
+        },
+        {
+          "title": "QA & Bug Reporting",
+          "price": "Depending on the game's size.",
+          "priceNote": "",
+          "text": "Playtesting, reproducing issues, test cases and clear reports."
+        },
+        {
+          "title": "Documentation",
+          "price": "500-2,000 Robux.",
+          "priceNote": "",
+          "text": "Writing clear rules, FAQs, staff guides, testing records and process documentation."
+        }
+      ],
+      "align": "left",
+      "size": "m",
+      "pad": "m",
+      "width": "normal",
+      "bgs": "none",
+      "bgc": "",
+      "anim": "default",
+      "delay": 0,
+      "tc": "",
+      "sf": "",
+      "hide": "never",
+      "bgi": "",
+      "bgiAnim": "none",
+      "bgiDim": 40,
+      "bgiSpd": 16,
+      "bgiPos": "center",
+      "bgiInt": 3,
+      "bgiSize": "cover"
     },
     {
       "cols": "1",
@@ -706,7 +734,7 @@
         {
           "quote": "==“ Beautiful ”==",
           "name": "🎃SPOOKY NOEL🎃\n(@cursedualkatanacdk)\n",
-          "role": "Server Redesign",
+          "role": "Server Redesign,\n2,000 Robux.",
           "stars": "5",
           "avatar": "https://cdn.discordapp.com/avatars/1212554274576400394/764a206900c1f78d8eea0ca4776c26c5.webp?size=1536"
         }

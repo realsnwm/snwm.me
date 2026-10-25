@@ -78,7 +78,7 @@
     "color": "#000000"
   },
   "integ": {
-    "webhook": "https://discord.com/api/webhooks/1562233229501800579/uzeBFmid4Q3dth-KPRxvpBBnHf-jpqLIbFHh0dR8iYBtZvKxcQl6jNhIJ1CVvdlL8Hag",
+    "webhook": "https://discord.com/api/webhooks/1563932285416247448/h-45B6YXYTx9niDN4qfG4EEQojqkc5F4h5fPaQQsc_fw1gGYF9JnDYhZ9rplIHAJ6Ymg",
     "formUrl": "",
     "plausible": "",
     "webhookMsg": {
@@ -87,7 +87,7 @@
         "on": true,
         "title": "Project Request",
         "desc": "## - Username :\n{name}\n\n## - Services Needed :\n{needs}\n\n## - Message/Details :\n{message}",
-        "color": "",
+        "color": "#8088ff",
         "footer": "{date}, {time} | {page} {brand}",
         "fields": []
       }

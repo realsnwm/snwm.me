@@ -39,7 +39,7 @@
     "ambient": true,
     "loader": true,
     "loaderStyle": "orb",
-    "loaderSpd": 1.5,
+    "loaderSpd": 0.5,
     "smooth": true,
     "progress": false,
     "sticky": true,

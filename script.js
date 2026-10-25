@@ -163,7 +163,7 @@ const statuses = {
 
 async function loadDiscord(){
   try{
-    const res = await fetch('https://api.lanyard.rest/v1/users/1019613116209823874',{
+    const res = await fetch('https://api.lanyard.rest/v1/users/1163055480046878720',{
       cache:'no-store',
       signal:AbortSignal.timeout ? AbortSignal.timeout(7000) : undefined
     });
@@ -177,7 +177,7 @@ async function loadDiscord(){
     const status = data.discord_status || 'offline';
 
     document.getElementById('discordName').textContent =
-      user.global_name || user.display_name || 'Caesrov';
+      user.global_name || user.display_name || 'Snowman';
     document.getElementById('discordStatus').textContent =
       statuses[status] || status;
 
